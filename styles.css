@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  h3 {
+      font-family: 'Lobster', cursive;
+}
+
+p {
+    font-family: 'Pacifico', cursive;
+}
+
+html {
+    background-color:lightpink;
+}
+
+h1 {
+    color:white;
+}
